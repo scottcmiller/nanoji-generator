@@ -1,0 +1,23 @@
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 33.94">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ffcc4d;
+      }
+
+      .cls-2 {
+        fill: #66471b;
+      }
+
+      .cls-3 {
+        fill: #e75b70;
+      }
+    </style>
+  </defs>
+  <title>tongue_out</title>
+  <circle class="cls-1" cx="16" cy="16" r="16"/>
+  <ellipse class="cls-2" cx="9.88" cy="14.62" rx="2.35" ry="3.31"/>
+  <ellipse class="cls-2" cx="22.12" cy="14.62" rx="2.35" ry="3.31"/>
+  <path class="cls-2" d="M5.65,20.76c0,3.74,4.33,8.5,10.35,8.5s10.35-4.72,10.35-8.5A46.89,46.89,0,0,1,5.65,20.76Z"/>
+  <path id="tongue" class="cls-3" d="M10.35,22.53v5.75A5.43,5.43,0,0,0,16,33.94a5.43,5.43,0,0,0,5.65-5.67V22.57A29.3,29.3,0,0,1,10.35,22.53Z"/>
+</svg>

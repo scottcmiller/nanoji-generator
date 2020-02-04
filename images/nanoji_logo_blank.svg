@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 224.5 96.1">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ffcc4d;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+      .layer_2{
+        transform: translate(192.5, .7);
+        }
+      .tongue-1 {
+        fill: #ffcc4d;
+      }
+
+      .tongue-2 {
+        fill: #66471b;
+      }
+      .tongue-3 {
+        fill: #e75b70;
+      }
+      .heart_eyes-1 {
+      fill: #ffcc4d;
+      }
+
+      .heart_eyes-2 {
+        fill: #66471b;
+      }
+
+      .heart_eyes-3 {
+        fill: #e75b70;
+      }
+      .angel-1 {
+        fill: #ffcc4d;
+      }
+
+      .angel-2 {
+        fill: #66471b;
+      }
+
+      .angel-3 {
+        fill: #65abde;
+      }
+    </style>
+  </defs>
+  <title>nanoji_logo_blank</title>
+  <g id="blank_logo">
+    <path class="cls-1" d="M128.28,48a16,16,0,0,1-32.07,0c0-12-4-16-16-16s-16,4-16,16a16,16,0,1,1-16-16c12,0,16-4,16-16a16,16,0,0,1,32.06,0c0,12,4,16,16,16A16,16,0,0,1,128.28,48Z"/>
+    <ellipse class="cls-1" cx="16.03" cy="80.01" rx="16.03" ry="15.99"/>
+    <path class="cls-1" d="M224.46,16.06a16,16,0,0,1-16,16c-12,0-16,4-16,16a16,16,0,0,1-16,16c-12,0-16,4-16,16a16,16,0,1,1-16-16c12,0,16-4,16-16a16,16,0,0,1,16-16c12,0,16-4,16-16a16,16,0,0,1,32.06,0Z"/>
+  </g>
+</svg>
